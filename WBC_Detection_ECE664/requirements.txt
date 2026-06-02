@@ -1,0 +1,11 @@
+opencv-python
+numpy
+matplotlib
+pillow
+torch
+torchvision
+pandas
+openpyxl
+pyserial
+# Optional for Basler industrial cameras:
+# pypylon
